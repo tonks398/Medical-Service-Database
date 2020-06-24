@@ -1,7 +1,7 @@
 # Medical Service Database
 
 ## Tables
-MSP(MName, MDescription)  
+MSP(<ins>MName</ins>, MDescription)  
 Vaccin(<ins>VName</ins>, Dose, AgreRequired, Price)  
 Citizen(<ins>FID</ins>, <ins>CName</ins>, Gender, BloodType, CDOB, Remarks)  
 Family(<ins>FID</ins>, FName, FAddr)  
